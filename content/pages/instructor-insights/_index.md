@@ -27,7 +27,7 @@ Curriculum Information
 
 ### Prerequisites
 
-The essential prerequisites for this course are [_6.003 Signals and Systems_](http://ocw2.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011) and [_6.041A Intro to Probability I_](http://ocw2.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013) (or equivalents), and the [_18.03 Differential Equations_](http://ocw2.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011) material related to solving linear, time-invariant systems of first-order differential equations using eigenvalues and eigenvectors.
+The essential prerequisites for this course are [_6.003 Signals and Systems_](/courses/6-003-signals-and-systems-fall-2011) and [_6.041A Intro to Probability I_](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013) (or equivalents), and the [_18.03 Differential Equations_](/courses/18-03sc-differential-equations-fall-2011) material related to solving linear, time-invariant systems of first-order differential equations using eigenvalues and eigenvectors.
 
 ### Requirements Satisfied
 
